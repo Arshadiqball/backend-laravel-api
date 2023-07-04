@@ -17,7 +17,7 @@
     1 - docker-compose down
     2 - docker volume rm backend-laravel-api_db_data
 
-# Docker COnfigurations Comands, no need to run, runs when needed:
+# Docker Configurations Comands, no need to run, runs when needed:
 
     docker-compose exec db mysql -uroot -p 
     Password: MYSQL_ROOT_PASSWORD
